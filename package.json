@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-london",
+  "name": "sebstuart-banks",
   "private": true,
-  "description": "A custom, image-centric theme for Gatsby",
+  "description": "A personal collection of thoughts and ideas, shared with you.",
   "version": "1.0.0",
-  "author": "Imed Adel <aadelimed@gmail.com>",
+  "author": "Seb Stuart-banks",
   "bugs": {
-    "url": "https://github.com/ImedAdel/gatsby-london/issues"
+    "url": "https://sebstuart-banks.co.uk"
   },
   "dependencies": {
     "gatsby": "^2.4.2",
