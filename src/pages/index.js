@@ -18,7 +18,7 @@ const BlogIndex = ({ data }, location) => {
     <Layout title={siteTitle}>
       <SEO
         title="Home"
-        keywords={[`seb stuart-banks`, `London`, `javascript`, `react`]}
+        keywords={[`sebstuart-banks`, `London`, `javascript`, `react`]}
       />
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (
