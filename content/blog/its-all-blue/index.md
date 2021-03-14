@@ -1,8 +1,8 @@
 ---
-title: It's all blue
+title: Site under construction
 date: "2019-05-06"
-thumbnail: ./cody-davis-253928-unsplash.jpg
-description: What if everything you knew was turned to blue?
+thumbnail: ./bench-accounting-49909-unsplash.jpg
+description: Watch this space!
 ---
 
 ![It's all blue](./cody-davis-253925-unsplash.jpg)
